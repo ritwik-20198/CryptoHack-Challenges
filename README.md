@@ -15,3 +15,7 @@ CryptoHack is a website that provides a platform for learning and practicing cry
 ## PROGRESS
 ![CryptoHack Progress](https://github.com/ritwik-20198/CryptoHack-Challenges/blob/main/PROGRESS/CRYPTOHACK_Ritwik%20Gupta_Progress.png)
 
+Note: The progress can also be found within 'PROGRESS' repository folder.
+
+CryptoHack Username: 
+# RG20
